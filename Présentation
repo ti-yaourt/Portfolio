@@ -24,12 +24,6 @@
             padding: 20px;
         }
 
-        img {
-            width: 150px;
-            display: block;
-            margin: 0 auto 20px;
-        }
-
         h2 {
             color: #333;
         }
@@ -53,8 +47,6 @@
     </header>
 
     <main>
-        <img src="https://www.pexels.com/fr-fr/photo/homme-amour-marcher-soleil-8573553/" alt="Photo de représentative de l'enfance">
-
         <p>
             Bonjour, je m’appelle Tina Thaly.
             Je me permet de me présenter à vous.
@@ -76,7 +68,6 @@
             <li>Lightroom/Photoshop/IbisPain</li>
             <li>Filmora (éditeur vidéo)</li>
         </ul>
-
     </main>
 
     <footer>
